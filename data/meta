@@ -1,0 +1,21 @@
+https://www.data.gv.at/katalog/dataset/erwerbstatige-in-der-steiermark
+
+NUTS1: NUTS1-Region (AT2=S?d?sterreich) 
+NUTS2: NUTS2-Region (AT22=Steiermark) 
+NUTS3: NUTS3-Region (AT221=Graz; AT222=Liezen; AT223=?stliche Obersteiermark; AT224=Oststeiermark; AT225=West- und S?dsteiermark; AT226=Westliche Obersteiermark) 
+DISTRICT_CODE: Bezirkskennzahl 
+DISTRICT_NAME: Name des Bezirks 
+LAU_CODE: Gemeindekennzahl 
+LAU_NAME: Name der Gemeinde 
+NON_SELF_EMPL_M: unselbst?ndig Besch?ftigte M?nner 
+SELF_EMPL_M: Selbst?ndige und mithelfende Familienangeh?rige M?nner 
+TEMP_ABSENT_M: Tempor?r von der Arbeit abwesend M?nner 
+EMPL_TOTAL_M: Erwerbst?tige Gesamt M?nner 
+ON_SELF_EMPL_W: unselbst?ndig Besch?ftigte Frauen 
+SELF_EMPL_W: Selbst?ndige und mithelfende Familienangeh?rige Frauen 
+TEMP_ABSENT_W: Tempor?r von der Arbeit abwesend Frauen 
+EMPL_TOTAL_W: Erwerbst?tige Gesamt Frauen 
+NON_SELF_EMPL_TOTAL: unselbst?ndig Besch?ftigte Gesamt 
+SELF_EMPL_TOTAL: Selbst?ndige und mithelfende Familienangeh?rige Gesamt 
+TEMP_ABSENT_TOTAL: Tempor?r von der Arbeit abwesend Gesamt 
+EMPL_TOTAL: Erwerbst?tige Gesamt REF_DATE: Referenzjahr
