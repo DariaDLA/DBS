@@ -1,0 +1,3 @@
+- Dataset: Erwerbstätigkeit in der Steiermark (s. data)
+- Für Konvertierung in XML: MSSQL installiert (sollte mit XML-SQL ermöglichen, Daten in xml zu transformieren)
+- Daten in DB (aus einer Tabelle bestehend) hochgeladen
