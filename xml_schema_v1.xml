@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="gemeinde">
+  <xs:complexType>
+    <xs:sequence>
+
+	<xs:attribute name="LAU_CODE" type="xs:string" use="required"/>
+	<xs:attribute name="LAU_NAME" type="xs:string"/>
+	<xs:attribute name="REF_DATE" type="xs:date"/>
+
+	<xs:element name="info">
+  	  <xs:complexType>
+    	    <xs:sequence>
+		 <xs:element name="NUTS3" type="xs:string"/>
+      	 <xs:element name="DISTRICT_CODE" type="xs:integer"/>
+      	 <xs:element name="DISTRICT_NAME" type="xs:string"/>
+	    </xs:sequence>
+	  </xs:complexType>
+	</xs:element>
+
+	<xs:element name="total">
+  	  <xs:complexType>
+    	    <xs:sequence>
+
+		 <xs:element name="NON_SELF_EMPL_TOTAL" type="xs:integer"/>
+		 <xs:element name="SELF_EMPL_TOTAL" type="xs:integer"/>
+		 <xs:element name="TEMP_ABSENT_TOTAL" type="xs:integer"/>
+	 	 <xs:element name="EMPL_TOTAL" type="xs:integer"/>
+		 <xs:element name="LAU_CODE" type="xs:integer"/>
+
+	    </xs:sequence>
+	  </xs:complexType>
+	</xs:element>
+
+	<xs:element name="women">
+  	  <xs:complexType>
+    	    <xs:sequence>
+
+		 <xs:element name="NON_SELF_EMPL_W" type="xs:integer"/>
+		 <xs:element name="SELF_EMPL_W" type="xs:integer"/>
+		 <xs:element name="TEMP_ABSENT_W" type="xs:integer"/>
+	 	 <xs:element name="EMPL_TOTAL_W" type="xs:integer"/>
+		 <xs:element name="LAU_CODE" type="xs:integer"/>
+
+	    </xs:sequence>
+	  </xs:complexType>
+	</xs:element>
+
+	<xs:element name="men">
+  	  <xs:complexType>
+    	    <xs:sequence>
+
+		 <xs:element name="NON_SELF_EMPL_M" type="xs:integer"/>
+		 <xs:element name="SELF_EMPL_M" type="xs:integer"/>
+		 <xs:element name="TEMP_ABSENT_M" type="xs:integer"/>
+	 	 <xs:element name="EMPL_TOTAL_M" type="xs:integer"/>
+		 <xs:element name="LAU_CODE" type="xs:integer"/>
+
+	    </xs:sequence>
+	  </xs:complexType>
+	</xs:element>
+
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+</xs:schema>
