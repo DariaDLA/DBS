@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <u:Uebung1 xmlns:u="Uebung1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="entities/Uebung1 Uebung1.xsd">
             
 <gemeinde LAU_CODE="60101" LAU_NAME="Graz " REF_DATE="2017-10-31T00:00:00">
