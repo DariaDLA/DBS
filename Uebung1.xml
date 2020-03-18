@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<u:Uebung1 xmlns:u="Uebung1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="entities/Uebung1 Uebung1.xsd">
+
+<gemeinden xmlns="file:///C:/eXist-db/etc/webapp/WEB-INF/entities/Uebung1.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org file:///C:/eXist-db/etc/webapp/WEB-INF/entities/Uebung1.xsd">
             
 <gemeinde LAU_CODE="60101" LAU_NAME="Graz " REF_DATE="2017-10-31T00:00:00">
   <info>
@@ -29,7 +30,7 @@
     <LAU_CODE>60101</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60305" LAU_NAME="Frauental an der La�nitz " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60305" LAU_NAME="Frauental an der La nitz " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>603</DISTRICT_CODE>
@@ -85,7 +86,7 @@
     <LAU_CODE>60318</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60323" LAU_NAME="P�lfing-Brunn " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60323" LAU_NAME="P lfing-Brunn " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>603</DISTRICT_CODE>
@@ -197,7 +198,7 @@
     <LAU_CODE>60329</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60341" LAU_NAME="Wettmannst�tten " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60341" LAU_NAME="Wettmannst tten " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>603</DISTRICT_CODE>
@@ -281,7 +282,7 @@
     <LAU_CODE>60345</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60346" LAU_NAME="Gro� Sankt Florian " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60346" LAU_NAME="Gro  Sankt Florian " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>603</DISTRICT_CODE>
@@ -477,7 +478,7 @@
     <LAU_CODE>60608</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60611" LAU_NAME="G�ssendorf " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60611" LAU_NAME="G ssendorf " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT221</NUTS3>
     <DISTRICT_CODE>606</DISTRICT_CODE>
@@ -589,7 +590,7 @@
     <LAU_CODE>60618</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60619" LAU_NAME="Hausmannst�tten " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60619" LAU_NAME="Hausmannst tten " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT221</NUTS3>
     <DISTRICT_CODE>606</DISTRICT_CODE>
@@ -701,7 +702,7 @@
     <LAU_CODE>60626</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60628" LAU_NAME="La�nitzh�he " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60628" LAU_NAME="La nitzh he " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT221</NUTS3>
     <DISTRICT_CODE>606</DISTRICT_CODE>
@@ -785,7 +786,7 @@
     <LAU_CODE>60632</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60639" LAU_NAME="Sankt Bartholom� " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60639" LAU_NAME="Sankt Bartholom  " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT221</NUTS3>
     <DISTRICT_CODE>606</DISTRICT_CODE>
@@ -981,7 +982,7 @@
     <LAU_CODE>60648</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60651" LAU_NAME="�belbach " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60651" LAU_NAME=" belbach " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT221</NUTS3>
     <DISTRICT_CODE>606</DISTRICT_CODE>
@@ -1261,7 +1262,7 @@
     <LAU_CODE>60663</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60664" LAU_NAME="Gratwein-Stra�engel  " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60664" LAU_NAME="Gratwein-Stra engel  " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT221</NUTS3>
     <DISTRICT_CODE>606</DISTRICT_CODE>
@@ -1429,7 +1430,7 @@
     <LAU_CODE>60669</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="60670" LAU_NAME="Premst�tten" REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="60670" LAU_NAME="Premst tten" REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT221</NUTS3>
     <DISTRICT_CODE>606</DISTRICT_CODE>
@@ -1597,7 +1598,7 @@
     <LAU_CODE>61012</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61013" LAU_NAME="Gro�klein " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61013" LAU_NAME="Gro klein " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>610</DISTRICT_CODE>
@@ -1821,7 +1822,7 @@
     <LAU_CODE>61027</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61030" LAU_NAME="Sankt Andr�-H�ch " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61030" LAU_NAME="Sankt Andr -H ch " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>610</DISTRICT_CODE>
@@ -1961,7 +1962,7 @@
     <LAU_CODE>61045</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61049" LAU_NAME="Ehrenhausen an der Weinstra�e " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61049" LAU_NAME="Ehrenhausen an der Weinstra e " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>610</DISTRICT_CODE>
@@ -2017,7 +2018,7 @@
     <LAU_CODE>61050</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61051" LAU_NAME="Gleinst�tten " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61051" LAU_NAME="Gleinst tten " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>610</DISTRICT_CODE>
@@ -2101,7 +2102,7 @@
     <LAU_CODE>61053</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61054" LAU_NAME="Leutschach an der Weinstra�e " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61054" LAU_NAME="Leutschach an der Weinstra e " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>610</DISTRICT_CODE>
@@ -2157,7 +2158,7 @@
     <LAU_CODE>61055</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61056" LAU_NAME="Sankt Veit in der S�dsteiermark" REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61056" LAU_NAME="Sankt Veit in der S dsteiermark" REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>610</DISTRICT_CODE>
@@ -2213,7 +2214,7 @@
     <LAU_CODE>61057</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61058" LAU_NAME="Stra� in Steiermark" REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61058" LAU_NAME="Stra  in Steiermark" REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>610</DISTRICT_CODE>
@@ -2661,7 +2662,7 @@
     <LAU_CODE>61118</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61119" LAU_NAME="Wald am Schoberpa� " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61119" LAU_NAME="Wald am Schoberpa  " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>611</DISTRICT_CODE>
@@ -2857,7 +2858,7 @@
     <LAU_CODE>61207</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61213" LAU_NAME="Gr�bming " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61213" LAU_NAME="Gr bming " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT222</NUTS3>
     <DISTRICT_CODE>612</DISTRICT_CODE>
@@ -3081,7 +3082,7 @@
     <LAU_CODE>61251</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61252" LAU_NAME="W�rschach " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61252" LAU_NAME="W rschach " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT222</NUTS3>
     <DISTRICT_CODE>612</DISTRICT_CODE>
@@ -3361,7 +3362,7 @@
     <LAU_CODE>61261</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61262" LAU_NAME="�blarn " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61262" LAU_NAME=" blarn " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT222</NUTS3>
     <DISTRICT_CODE>612</DISTRICT_CODE>
@@ -3473,7 +3474,7 @@
     <LAU_CODE>61265</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61266" LAU_NAME="S�lk " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61266" LAU_NAME="S lk " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT222</NUTS3>
     <DISTRICT_CODE>612</DISTRICT_CODE>
@@ -3501,7 +3502,7 @@
     <LAU_CODE>61266</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61267" LAU_NAME="Stainach-P�rgg " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61267" LAU_NAME="Stainach-P rgg " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT222</NUTS3>
     <DISTRICT_CODE>612</DISTRICT_CODE>
@@ -3529,7 +3530,7 @@
     <LAU_CODE>61267</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61410" LAU_NAME="M�hlen " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61410" LAU_NAME="M hlen " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT226</NUTS3>
     <DISTRICT_CODE>614</DISTRICT_CODE>
@@ -3557,7 +3558,7 @@
     <LAU_CODE>61410</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61413" LAU_NAME="Niederw�lz " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61413" LAU_NAME="Niederw lz " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT226</NUTS3>
     <DISTRICT_CODE>614</DISTRICT_CODE>
@@ -3613,7 +3614,7 @@
     <LAU_CODE>61425</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61428" LAU_NAME="Sch�der " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61428" LAU_NAME="Sch der " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT226</NUTS3>
     <DISTRICT_CODE>614</DISTRICT_CODE>
@@ -3725,7 +3726,7 @@
     <LAU_CODE>61439</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61440" LAU_NAME="Oberw�lz " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61440" LAU_NAME="Oberw lz " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT226</NUTS3>
     <DISTRICT_CODE>614</DISTRICT_CODE>
@@ -4033,7 +4034,7 @@
     <LAU_CODE>61618</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61621" LAU_NAME="Sankt Martin am W�llmi�berg " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61621" LAU_NAME="Sankt Martin am W llmi berg " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>616</DISTRICT_CODE>
@@ -4117,7 +4118,7 @@
     <LAU_CODE>61625</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61626" LAU_NAME="B�rnbach " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61626" LAU_NAME="B rnbach " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>616</DISTRICT_CODE>
@@ -4173,7 +4174,7 @@
     <LAU_CODE>61627</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61628" LAU_NAME="Geistthal-S�dingberg  " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61628" LAU_NAME="Geistthal-S dingberg  " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>616</DISTRICT_CODE>
@@ -4257,7 +4258,7 @@
     <LAU_CODE>61630</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61631" LAU_NAME="K�flach " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61631" LAU_NAME="K flach " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>616</DISTRICT_CODE>
@@ -4313,7 +4314,7 @@
     <LAU_CODE>61632</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61633" LAU_NAME="S�ding-Sankt Johann " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61633" LAU_NAME="S ding-Sankt Johann " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT225</NUTS3>
     <DISTRICT_CODE>616</DISTRICT_CODE>
@@ -4481,7 +4482,7 @@
     <LAU_CODE>61716</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="61719" LAU_NAME="Hofst�tten an der Raab " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="61719" LAU_NAME="Hofst tten an der Raab " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>617</DISTRICT_CODE>
@@ -5601,7 +5602,7 @@
     <LAU_CODE>62042</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62043" LAU_NAME="P�ls-Oberkurzheim  " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62043" LAU_NAME="P ls-Oberkurzheim  " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT226</NUTS3>
     <DISTRICT_CODE>620</DISTRICT_CODE>
@@ -5629,7 +5630,7 @@
     <LAU_CODE>62043</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62044" LAU_NAME="P�lstal" REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62044" LAU_NAME="P lstal" REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT226</NUTS3>
     <DISTRICT_CODE>620</DISTRICT_CODE>
@@ -5741,7 +5742,7 @@
     <LAU_CODE>62047</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62048" LAU_NAME="Wei�kirchen in Steiermark " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62048" LAU_NAME="Wei kirchen in Steiermark " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT226</NUTS3>
     <DISTRICT_CODE>620</DISTRICT_CODE>
@@ -5773,7 +5774,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>554</NON_SELF_EMPL_TOTAL>
@@ -5801,7 +5802,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2212</NON_SELF_EMPL_TOTAL>
@@ -5829,7 +5830,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1628</NON_SELF_EMPL_TOTAL>
@@ -5857,7 +5858,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1021</NON_SELF_EMPL_TOTAL>
@@ -5881,11 +5882,11 @@
     <LAU_CODE>62125</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62128" LAU_NAME="Sankt Lorenzen im M�rztal " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62128" LAU_NAME="Sankt Lorenzen im M rztal " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1594</NON_SELF_EMPL_TOTAL>
@@ -5913,7 +5914,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>541</NON_SELF_EMPL_TOTAL>
@@ -5937,11 +5938,11 @@
     <LAU_CODE>62131</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62132" LAU_NAME="Stanz im M�rztal " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62132" LAU_NAME="Stanz im M rztal " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>750</NON_SELF_EMPL_TOTAL>
@@ -5969,7 +5970,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>621</NON_SELF_EMPL_TOTAL>
@@ -5997,7 +5998,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>960</NON_SELF_EMPL_TOTAL>
@@ -6025,7 +6026,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>6553</NON_SELF_EMPL_TOTAL>
@@ -6053,7 +6054,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>9126</NON_SELF_EMPL_TOTAL>
@@ -6081,7 +6082,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>3488</NON_SELF_EMPL_TOTAL>
@@ -6109,7 +6110,7 @@
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1531</NON_SELF_EMPL_TOTAL>
@@ -6133,11 +6134,11 @@
     <LAU_CODE>62142</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62143" LAU_NAME="M�rzzuschlag " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62143" LAU_NAME="M rzzuschlag " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>3125</NON_SELF_EMPL_TOTAL>
@@ -6161,11 +6162,11 @@
     <LAU_CODE>62143</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62144" LAU_NAME="Neuberg an der M�rz " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62144" LAU_NAME="Neuberg an der M rz " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>916</NON_SELF_EMPL_TOTAL>
@@ -6189,11 +6190,11 @@
     <LAU_CODE>62144</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62145" LAU_NAME="Sankt Barbara im M�rztal" REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62145" LAU_NAME="Sankt Barbara im M rztal" REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2559</NON_SELF_EMPL_TOTAL>
@@ -6217,11 +6218,11 @@
     <LAU_CODE>62145</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62146" LAU_NAME="Sankt Marein im M�rztal " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62146" LAU_NAME="Sankt Marein im M rztal " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1165</NON_SELF_EMPL_TOTAL>
@@ -6245,11 +6246,11 @@
     <LAU_CODE>62146</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62147" LAU_NAME="Th�rl " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62147" LAU_NAME="Th rl " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>883</NON_SELF_EMPL_TOTAL>
@@ -6273,11 +6274,11 @@
     <LAU_CODE>62147</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62148" LAU_NAME="Trag��-Sankt Katharein " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62148" LAU_NAME="Trag  -Sankt Katharein " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT223</NUTS3>
     <DISTRICT_CODE>621</DISTRICT_CODE>
-    <DISTRICT_NAME>Bruck-M�rzzuschlag</DISTRICT_NAME>
+    <DISTRICT_NAME>Bruck-M rzzuschlag</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>729</NON_SELF_EMPL_TOTAL>
@@ -6305,7 +6306,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>697</NON_SELF_EMPL_TOTAL>
@@ -6333,7 +6334,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>928</NON_SELF_EMPL_TOTAL>
@@ -6361,7 +6362,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>407</NON_SELF_EMPL_TOTAL>
@@ -6389,7 +6390,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>565</NON_SELF_EMPL_TOTAL>
@@ -6417,7 +6418,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1078</NON_SELF_EMPL_TOTAL>
@@ -6445,7 +6446,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>780</NON_SELF_EMPL_TOTAL>
@@ -6469,11 +6470,11 @@
     <LAU_CODE>62214</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62216" LAU_NAME="Gro�steinbach " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62216" LAU_NAME="Gro steinbach " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>566</NON_SELF_EMPL_TOTAL>
@@ -6501,7 +6502,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2748</NON_SELF_EMPL_TOTAL>
@@ -6529,7 +6530,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>913</NON_SELF_EMPL_TOTAL>
@@ -6557,7 +6558,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>613</NON_SELF_EMPL_TOTAL>
@@ -6585,7 +6586,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>768</NON_SELF_EMPL_TOTAL>
@@ -6613,7 +6614,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1354</NON_SELF_EMPL_TOTAL>
@@ -6637,11 +6638,11 @@
     <LAU_CODE>62233</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62235" LAU_NAME="P�llauberg " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62235" LAU_NAME="P llauberg " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>915</NON_SELF_EMPL_TOTAL>
@@ -6669,7 +6670,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>453</NON_SELF_EMPL_TOTAL>
@@ -6697,7 +6698,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>972</NON_SELF_EMPL_TOTAL>
@@ -6725,7 +6726,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>611</NON_SELF_EMPL_TOTAL>
@@ -6749,11 +6750,11 @@
     <LAU_CODE>62245</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62247" LAU_NAME="Sch�ffern " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62247" LAU_NAME="Sch ffern " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>557</NON_SELF_EMPL_TOTAL>
@@ -6777,11 +6778,11 @@
     <LAU_CODE>62247</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62252" LAU_NAME="S�chau " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62252" LAU_NAME="S chau " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>595</NON_SELF_EMPL_TOTAL>
@@ -6809,7 +6810,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>899</NON_SELF_EMPL_TOTAL>
@@ -6837,7 +6838,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>531</NON_SELF_EMPL_TOTAL>
@@ -6865,7 +6866,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1712</NON_SELF_EMPL_TOTAL>
@@ -6893,7 +6894,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>876</NON_SELF_EMPL_TOTAL>
@@ -6921,7 +6922,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1063</NON_SELF_EMPL_TOTAL>
@@ -6945,11 +6946,11 @@
     <LAU_CODE>62266</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62267" LAU_NAME="F�rstenfeld " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62267" LAU_NAME="F rstenfeld " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>3576</NON_SELF_EMPL_TOTAL>
@@ -6977,7 +6978,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1307</NON_SELF_EMPL_TOTAL>
@@ -7001,11 +7002,11 @@
     <LAU_CODE>62268</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62269" LAU_NAME="Gro�wilfersdorf " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62269" LAU_NAME="Gro wilfersdorf " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>864</NON_SELF_EMPL_TOTAL>
@@ -7033,7 +7034,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>928</NON_SELF_EMPL_TOTAL>
@@ -7061,7 +7062,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1698</NON_SELF_EMPL_TOTAL>
@@ -7089,7 +7090,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1253</NON_SELF_EMPL_TOTAL>
@@ -7113,11 +7114,11 @@
     <LAU_CODE>62272</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62273" LAU_NAME="Loipersdorf bei F�rstenfeld " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62273" LAU_NAME="Loipersdorf bei F rstenfeld " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>800</NON_SELF_EMPL_TOTAL>
@@ -7145,7 +7146,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>522</NON_SELF_EMPL_TOTAL>
@@ -7169,11 +7170,11 @@
     <LAU_CODE>62274</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62275" LAU_NAME="P�llau " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62275" LAU_NAME="P llau " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2647</NON_SELF_EMPL_TOTAL>
@@ -7201,7 +7202,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>638</NON_SELF_EMPL_TOTAL>
@@ -7229,7 +7230,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1167</NON_SELF_EMPL_TOTAL>
@@ -7257,7 +7258,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1893</NON_SELF_EMPL_TOTAL>
@@ -7281,11 +7282,11 @@
     <LAU_CODE>62278</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62279" LAU_NAME="Waldbach-M�nichwald" REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62279" LAU_NAME="Waldbach-M nichwald" REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>622</DISTRICT_CODE>
-    <DISTRICT_NAME>Hartberg-F�rstenfeld</DISTRICT_NAME>
+    <DISTRICT_NAME>Hartberg-F rstenfeld</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>571</NON_SELF_EMPL_TOTAL>
@@ -7313,7 +7314,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>566</NON_SELF_EMPL_TOTAL>
@@ -7337,11 +7338,11 @@
     <LAU_CODE>62311</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62314" LAU_NAME="Eichk�gl " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62314" LAU_NAME="Eichk gl " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>583</NON_SELF_EMPL_TOTAL>
@@ -7369,7 +7370,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>690</NON_SELF_EMPL_TOTAL>
@@ -7397,7 +7398,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>688</NON_SELF_EMPL_TOTAL>
@@ -7425,7 +7426,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>644</NON_SELF_EMPL_TOTAL>
@@ -7449,11 +7450,11 @@
     <LAU_CODE>62332</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62335" LAU_NAME="Kl�ch " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62335" LAU_NAME="Kl ch " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>485</NON_SELF_EMPL_TOTAL>
@@ -7477,11 +7478,11 @@
     <LAU_CODE>62335</LAU_CODE>
   </men>
 </gemeinde>
-<gemeinde LAU_CODE="62343" LAU_NAME="Mettersdorf am Sa�bach " REF_DATE="2017-10-31T00:00:00">
+<gemeinde LAU_CODE="62343" LAU_NAME="Mettersdorf am Sa bach " REF_DATE="2017-10-31T00:00:00">
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>555</NON_SELF_EMPL_TOTAL>
@@ -7509,7 +7510,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>700</NON_SELF_EMPL_TOTAL>
@@ -7537,7 +7538,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>512</NON_SELF_EMPL_TOTAL>
@@ -7565,7 +7566,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>559</NON_SELF_EMPL_TOTAL>
@@ -7593,7 +7594,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2195</NON_SELF_EMPL_TOTAL>
@@ -7621,7 +7622,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1161</NON_SELF_EMPL_TOTAL>
@@ -7649,7 +7650,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>773</NON_SELF_EMPL_TOTAL>
@@ -7677,7 +7678,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2942</NON_SELF_EMPL_TOTAL>
@@ -7705,7 +7706,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>5681</NON_SELF_EMPL_TOTAL>
@@ -7733,7 +7734,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2622</NON_SELF_EMPL_TOTAL>
@@ -7761,7 +7762,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1467</NON_SELF_EMPL_TOTAL>
@@ -7789,7 +7790,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1918</NON_SELF_EMPL_TOTAL>
@@ -7817,7 +7818,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1431</NON_SELF_EMPL_TOTAL>
@@ -7845,7 +7846,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1364</NON_SELF_EMPL_TOTAL>
@@ -7873,7 +7874,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1183</NON_SELF_EMPL_TOTAL>
@@ -7901,7 +7902,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>2159</NON_SELF_EMPL_TOTAL>
@@ -7929,7 +7930,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1003</NON_SELF_EMPL_TOTAL>
@@ -7957,7 +7958,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1352</NON_SELF_EMPL_TOTAL>
@@ -7985,7 +7986,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1713</NON_SELF_EMPL_TOTAL>
@@ -8013,7 +8014,7 @@
   <info>
     <NUTS3>AT224</NUTS3>
     <DISTRICT_CODE>623</DISTRICT_CODE>
-    <DISTRICT_NAME>S�doststeiermark</DISTRICT_NAME>
+    <DISTRICT_NAME>S doststeiermark</DISTRICT_NAME>
   </info>
   <total>
     <NON_SELF_EMPL_TOTAL>1516</NON_SELF_EMPL_TOTAL>
@@ -8037,4 +8038,4 @@
     <LAU_CODE>62390</LAU_CODE>
   </men>
 </gemeinde>
-</u:Uebung1>
+</gemeinden>
